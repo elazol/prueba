@@ -1,0 +1,3 @@
+/home/edwin/opengl/practica/cositas/build/CMakeFiles/rebuild_cache.dir
+/home/edwin/opengl/practica/cositas/build/CMakeFiles/edit_cache.dir
+/home/edwin/opengl/practica/cositas/build/CMakeFiles/hello.dir
